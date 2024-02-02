@@ -1,2 +1,2 @@
 # gameBarbie
-fiz este jogo com java e mongod
+Para criar esse jogo de vestir a boneca Barbie, utilizei ferramentas como Java e Mongod.
